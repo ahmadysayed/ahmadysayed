@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **ahmadimujtaba987@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mujtaba-ahmady-68458921a/](https://www.linkedin.com/in/mujtaba-ahmady-68458921a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sayed-mujtaba-ahmady/](https://www.linkedin.com/in/sayed-mujtaba-ahmady/)
 
 ###
 
