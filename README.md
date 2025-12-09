@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img width="12" />
-   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+   <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="symfony" width="40" height="40"/>
   
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
